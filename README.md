@@ -1,2 +1,2 @@
 # unix-programming-
-All the labs and some fun C codes
+Labs, assignments and some fun with C
